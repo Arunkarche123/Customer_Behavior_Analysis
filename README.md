@@ -235,7 +235,7 @@ jupyter notebook
 
 # Conclusion
 
-This project demonstrates practical skills in data analytics, SQL, data visualization, and business intelligence. It highlights the complete analytics pipeline from raw data processing to dashboard reporting and presentation creation.
+This project demonstrates practical skills in data analytics, SQL, data visualization, and business intelligence. It highlights the complete analytics pipeline from raw data processing to dashboard reporting and presentation creation..
 
 ---
 
