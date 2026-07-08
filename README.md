@@ -226,7 +226,11 @@ jupyter notebook
 
 # Future Improvements
 
-* Add machine learning models.
+### AI & Machine Learning Roadmap
+* **Advanced Customer Segmentation:** Implement unsupervised machine learning (K-Means Clustering) in Python to automatically group customers based on Recency, Frequency, and Monetary (RFM) values, replacing static SQL grouping.
+* **Predictive Churn Modeling:** Train supervised learning models (e.g., Random Forest or XGBoost) on historical purchasing data to predict which active customers are at high risk of dropping off.
+
+### Data Pipeline & Deployment
 * Automate dashboard updates.
 * Deploy dashboards online.
 * Integrate real-time data sources.
