@@ -99,7 +99,7 @@ Example:
 * JOIN operations
 * Filtering and sorting
 * Window functions
-* Subqueries
+* Subqueries.
 
 ### Example Insights
 
